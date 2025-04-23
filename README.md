@@ -7,4 +7,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love creating frameworks and tools that simplify development for everyone — even non-coders!
 
-> 🚀 I believe in building **future-proof tech** that impacts lives positively. Let's create something amazing together!
+> **🚀 I believe in building **future-proof tech** that impacts lives positively. Let's create something amazing together!**
