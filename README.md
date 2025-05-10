@@ -6,7 +6,7 @@
 * I’m looking to collaborate on innovative projects involving **mobile apps**, **AI integration**, and **productivity tools**.
 * Reach me at [codewithajoydas@gmail.com](mailto:codewithajoydas@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/codewithajoydas).
 * Pronouns: He/Him
-* Fun fact: I enjoy creating frameworks and tools that make development easier for everyone — even non-coders
+* Fun fact: I enjoy creating frameworks and tools that make development easier for everyone — even non-coders.
 
 > I believe in building **future-proof technology** that positively impacts lives. Let's create something amazing together.
 
