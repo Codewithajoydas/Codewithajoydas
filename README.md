@@ -10,7 +10,7 @@
 
 > I believe in building **future-proof technology** that positively impacts lives. Let's create something amazing together.
 
- My Web Ecosystem:
+ **Live**
 - Portfolio: https://codewithajoydas.live
 - CSS Projects: https://css.codewithajoydas.live
 - Dear Dev App: https://deardev.codewithajoydas.live
