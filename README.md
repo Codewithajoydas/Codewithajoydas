@@ -13,7 +13,7 @@ LinkedIn: https://www.linkedin.com/in/codewithajoydas
 
 Live:
 - https://codewithajoydas.live
-- https://css.codewithajoydas.live
+- https://cssprojects.codewithajoydas.live
 - https://deardev.codewithajoydas.live
 
 ---
